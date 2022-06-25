@@ -1,0 +1,11 @@
+.box1{
+    background-color: blue;
+    color: bisque;
+    width: 22%;
+    height: 290px;
+    float: left;
+    margin-top: 88px;
+    margin-left: 513px;
+    padding-top: 1px;
+    text-align: center;
+}
